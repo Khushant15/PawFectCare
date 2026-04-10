@@ -7,6 +7,10 @@
 
 PawFect Care is a premium, modern web application designed to empower pet owners with data-driven, personalized care strategies. From intelligent nutrition planning to interactive health tools, PawFect Care provides a comprehensive ecosystem for ensuring your pet's well-being.
 
+## 🚀 Live Demo
+
+Check out the live application here: [https://pawfectcareweb.netlify.app/](https://pawfectcareweb.netlify.app/)
+
 ## 🌟 Features
 
 ### 🛠 Interactive Tools
