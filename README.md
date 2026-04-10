@@ -1,11 +1,11 @@
-# 🐾 PetCareHub — Personalized Care Plans for Every Pet
+# 🐾 PawFect Care — Personalized Care Plans for Every Pet
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Khushant15/PetCareHub)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Khushant15/PawFectCare)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC.svg)](https://tailwindcss.com/)
 
-PetCareHub is a premium, modern web application designed to empower pet owners with data-driven, personalized care strategies. From intelligent nutrition planning to interactive health tools, PetCareHub provides a comprehensive ecosystem for ensuring your pet's well-being.
+PawFect Care is a premium, modern web application designed to empower pet owners with data-driven, personalized care strategies. From intelligent nutrition planning to interactive health tools, PawFect Care provides a comprehensive ecosystem for ensuring your pet's well-being.
 
 ## 🌟 Features
 
@@ -33,7 +33,7 @@ PetCareHub is a premium, modern web application designed to empower pet owners w
 
 ## 📸 Preview
 
-![PetCareHub Banner](./public/assets/banner.png)
+![PawFect Care Banner](./public/assets/pawfect_care_banner.png)
 
 ### Screenshots
 ![Mobile View](https://github.com/user-attachments/assets/50f9a006-e628-45b1-aeda-b9f14dcf0c7c)
@@ -43,12 +43,12 @@ PetCareHub is a premium, modern web application designed to empower pet owners w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Khushant15/PetCareHub.git
+   git clone https://github.com/Khushant15/PawFectCare.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd PetCareHub
+   cd PawFectCare
    ```
 
 3. **Install dependencies**
