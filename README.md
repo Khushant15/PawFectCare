@@ -35,9 +35,6 @@ PawFect Care is a premium, modern web application designed to empower pet owners
 
 ![PawFect Care Banner](./public/assets/pawfect_care_banner.png)
 
-### Screenshots
-![Mobile View](https://github.com/user-attachments/assets/50f9a006-e628-45b1-aeda-b9f14dcf0c7c)
-![Desktop Dashboard](https://github.com/user-attachments/assets/468f36af-32f1-4b54-bbcd-1c6b0c448528)
 
 ## 🛠 Installation & Setup
 
